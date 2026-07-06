@@ -1,0 +1,11 @@
+StudentID,Name,Age,Department,CGPA,Email
+101,Alice Johnson,20,CSE,3.85,alice@example.com
+102,Bob Smith,21,EEE,3.62,bob@example.com
+103,Charlie Brown,22,BBA,3.45,charlie@example.com
+104,Diana Prince,20,CSE,3.91,diana@example.com
+105,Ethan Clark,23,ME,3.55,ethan@example.com
+106,Fiona Davis,21,CSE,3.78,fiona@example.com
+107,George Wilson,22,CE,3.60,george@example.com
+108,Hannah Lee,20,EEE,3.88,hannah@example.com
+109,Ian Walker,21,BBA,3.40,ian@example.com
+110,Julia Martin,22,CSE,3.95,julia@example.com

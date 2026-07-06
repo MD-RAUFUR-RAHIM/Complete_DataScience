@@ -1,0 +1,2 @@
+This is stats example. Now it is working. 
+Hi

@@ -1,0 +1,4 @@
+This is a sample binary file.
+It contains some text stored as bytes.
+Python is writing this file in binary mode.
+This file is used for testing.
